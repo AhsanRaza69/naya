@@ -1664,4 +1664,9 @@ video {
     font-size: 1.5rem;
     line-height: 2rem;
   }
+
+  .xs\:underline {
+    -webkit-text-decoration-line: underline;
+            text-decoration-line: underline;
+  }
 }
